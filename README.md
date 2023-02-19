@@ -19,4 +19,6 @@ bison -dy sintatico.y
 
 gcc lex.yy.c y.tab.c -o trabalho.exe
 
-.\trabalho.exe
+Para executar o programa basta abrir o trabalho.exe ou chamar via terminal:
+
+![image](https://user-images.githubusercontent.com/97644828/219976356-14737535-f3f1-44cf-95d7-d66eb80537fe.png)
